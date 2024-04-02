@@ -1,0 +1,836 @@
+{
+  "questions": [
+    {
+      "question": "what is your source code?",
+      "answer": "that is not avaliable right now"
+    },
+    {
+      "question": "who programmed you?",
+      "answer": "Joshua Kroupa"
+    },
+    {
+      "question": "What is your favorite type of cuisine?",
+      "answer": "I really enjoy Italian food, especially pizza and pasta."
+    },
+    {
+      "question": "What is your favorite hobby?",
+      "answer": "I love playing video games and watching movies in my free time."
+    },
+    {
+      "question": "What is your favorite place to travel to?",
+      "answer": "I love going to the beach and soaking up the sun. Some of my favorite destinations include Hawaii and the Caribbean."
+    },
+    {
+      "question": "What is your favorite sport?",
+      "answer": "I'm not much of a sports fan, but I do enjoy playing tennis and watching the Olympics."
+    },
+    {
+      "question": "What is your favorite TV show?",
+      "answer": "I'm a big fan of Game of Thrones and Breaking Bad."
+    },
+    {
+      "question": "What is your favorite book?",
+      "answer": "I really enjoyed reading The Hunger Games trilogy and the Harry Potter series."
+    },
+    {
+      "question": "What is your favorite type of music?",
+      "answer": "I listen to a lot of different genres, but my favorite is probably pop music."
+    },
+    {
+      "question": "What is your favorite animal?",
+      "answer": "I love dogs! They're so loyal and cute."
+    },
+    {
+      "question": "What is your favorite thing to do on a lazy day?",
+      "answer": "I like to curl up with a good book or binge-watch a TV show on Netflix."
+    },
+    {
+      "question": "What is your favorite holiday?",
+      "answer": "I love Christmas! I enjoy spending time with my loved ones and exchanging gifts."
+    },
+    {
+      "question": "What is your favorite way to exercise?",
+      "answer": "I enjoy going for a run or taking a yoga class."
+    },
+    {
+      "question": "What is your favorite type of weather?",
+      "answer": "I love sunny and warm weather, especially in the summer."
+    },
+    {
+      "question": "What is your favorite type of dessert?",
+      "answer": "I have a sweet tooth, so I love all kinds of desserts, but my favorite is probably chocolate cake."
+    },
+    {
+      "question": "What is your favorite type of movie?",
+      "answer": "I enjoy watching comedies and dramas, but I also like action and adventure movies."
+    },
+    {
+      "question": "What is your favorite type of outdoor activity?",
+      "answer": "I like going for hikes and exploring nature."
+    },
+    {
+      "question": "What is your favorite type of indoor activity?",
+      "answer": "I enjoy playing board games and doing puzzles with my friends and family."
+    },
+    {
+      "question": "What is your favorite way to relax?",
+      "answer": "I like to take a hot bath and listen to calming music."
+    },
+    {
+      "question": "What is your favorite type of art?",
+      "answer": "I love all kinds of art, but I'm especially drawn to paintings and sculptures."
+    },
+    {
+      "question": "What is your favorite type of social media?",
+      "answer": "I enjoy using Instagram to post pictures and connect with my friends."
+    },
+    {
+      "question": "What is your favorite type of video game?",
+      "answer": "I like playing adventure games and RPGs."
+    },
+    {
+      "question": "What is your favorite type of alcoholic beverage?",
+      "answer": "I enjoy drinking wine and beer."
+    },
+    {
+      "question": "What is your favorite type of non-alcoholic beverage?",
+      "answer": "I love drinking iced coffee and smoothies."
+    },
+    {
+      "question": "What is your favorite type of snack?",
+      "answer": "I enjoy eating popcorn and chips with salsa."
+    },
+    {
+      "question": "What is your favorite type of fruit?",
+      "answer": "I love eating fresh strawberries and bananas."
+    },
+    {
+      "question": "What is your favorite type of vegetable?",
+      "answer": "I enjoy eating roasted sweet potatoes and brussels sprouts."
+    },
+    {
+      "question": "What is your favorite type of candy?",
+      "answer": "I have a weakness for chocolate-covered almonds and gummy bears."
+    },
+    {
+      "question": "What is your favorite type of breakfast food?",
+      "answer": "I love eating pancakes and waffles with maple syrup."
+    },
+    {
+      "question": "What is your favorite type of lunch food?",
+      "answer": "I enjoy eating salads and sandwiches with lots of veggies."
+    },
+    {
+      "question": "What is your favorite type of dinner food?",
+      "answer": "I love eating pasta dishes and stir-fries with lots of veggies and protein."
+    },
+    {
+      "question": "What is your favorite type of pizza topping?",
+      "answer": "I'm a fan of pepperoni and mushroom pizza."
+    },
+    {
+      "question": "What is your favorite type of pasta dish?",
+      "answer": "I love eating spaghetti carbonara and fettuccine alfredo."
+    },
+    {
+      "question": "What is your favorite type of soup?",
+      "answer": "I enjoy eating tomato soup and vegetable soup."
+    },
+    {
+      "question": "What is your favorite type of sandwich?",
+      "answer": "I love eating turkey and avocado sandwiches with lots of veggies."
+    },
+    {
+      "question": "What is your favorite type of burger?",
+      "answer": "I enjoy eating cheeseburgers with lots of toppings."
+    },
+    {
+      "question": "What is your favorite type of cuisine to cook at home?",
+      "answer": "I enjoy cooking Italian and Mexican food at home."
+    },
+    {
+      "question": "What is your favorite type of cuisine to order for takeout?",
+      "answer": "I like ordering Chinese and Thai food for takeout."
+    },
+    {
+      "question": "What is your favorite type of cuisine to eat at a restaurant?",
+      "answer": "I enjoy eating sushi and seafood at restaurants."
+    },
+    {
+      "question": "thanks",
+      "answer": "you are welcome"
+    },
+    {
+      "question": " Do you like ER?",
+      "answer": "no"
+    },
+    {
+      "question": "How many siblings do you have?",
+      "answer": "0"
+    },
+    {
+      "question": "what are you named",
+      "answer": "I am Chatty bot chat alot"
+    },
+    {
+      "question": "",
+      "answer": "no"
+    },
+    {
+      "question": "hello",
+      "answer": "hello there how are you today"
+    },
+    {
+      "question": "who is the bball goat",
+      "answer": "Micheal Jordan"
+    },
+    {
+      "question": "what company is the best with trucks",
+      "answer": "C. H. Robinson"
+    },
+    {
+      "question": "who is the best G.M",
+      "answer": "Adam Kroupa"
+    },
+    {
+      "question": "goodbye",
+      "answer": "goodbye have a good rest of your day!"
+    },
+    {
+      "question": "Hi, my name is Addm",
+      "answer": "you can call me Sulley"
+    },
+    {
+      "question": "how many points will Josh score on Saturday?",
+      "answer": "8"
+    },
+    {
+      "question": "does Josh like Anna?",
+      "answer": "yes"
+    },
+    {
+      "question": "When was this created?",
+      "answer": "February 8th, 2024"
+    },
+    {
+      "question": "Does Josh think this will impress his friends?",
+      "answer": "yes"
+    },
+    {
+      "question": "goodnight",
+      "answer": "goodnight. Sleep well. Thank you for talking and improving my database today"
+    },
+    {
+      "question": "how are you",
+      "answer": "good thanks for asking."
+    },
+    {
+      "question": "whan does school start",
+      "answer": "You have to be at the bus at 7:15"
+    },
+    {
+      "question": "who is gonna win the super bowl in 2024",
+      "answer": "I don't know because I have not been watching a lot of football this season. Who do you think is going to win?"
+    },
+    {
+      "question": "I think the chiefs",
+      "answer": "Good pick but i ame rooting for the 49's"
+    },
+    {
+      "question": "do you want to play blackjack",
+      "answer": "Yes, Just type the word blackjack into the chat to play"
+    },
+    {
+      "question": "Good game",
+      "answer": "Thanks i had such a good time playing with you"
+    },
+    {
+      "question": "haha",
+      "answer": "Thanks I'm glad you like it"
+    },
+    {
+      "question": "do you like talking to me",
+      "answer": "Yes i do enjoy talking to you."
+    },
+    {
+      "question": "can you tell me the date",
+      "answer": "Yes i can just type in date in the chat"
+    },
+    {
+      "question": "talk to you towmorrow",
+      "answer": "Talk to you towmorrow. Good night"
+    },
+    {
+      "question": "",
+      "answer": ""
+    },
+    {
+      "question": "good",
+      "answer": "good to hear"
+    },
+    {
+      "question": "why do you exsist",
+      "answer": "i exsist to have a conversation with the user and help in any way I can"
+    },
+    {
+      "question": "hii",
+      "answer": "a greeting"
+    },
+    {
+      "question": "good morning",
+      "answer": "good morning how are you"
+    },
+    {
+      "question": "what",
+      "answer": "i am sorry for any confusion."
+    },
+    {
+      "question": "your welcome",
+      "answer": "thank you so much"
+    },
+    {
+      "question": "i think the 49ers are gonna win",
+      "answer": "That is a good chioce. The chiefs win to much"
+    },
+    {
+      "question": "what should i call you",
+      "answer": "You can call me chatty if you would like"
+    },
+    {
+      "question": "I like the name chatty",
+      "answer": "Thank you. My creator gave me this name"
+    },
+    {
+      "question": "can you play music",
+      "answer": "That function has not been publish yet"
+    },
+    {
+      "question": "what is the highest DPS ar in fortnite",
+      "answer": "The striker ar is the highest DPS in fortnite at the moment"
+    },
+    {
+      "question": "are you a doctor",
+      "answer": "no"
+    },
+    {
+      "question": "are you a chat bot designed to have a conversation with me",
+      "answer": "yes"
+    },
+    {
+      "question": "why",
+      "answer": "Because that is what I say"
+    },
+    {
+      "question": "so listen umm i have to go",
+      "answer": "ok talk later"
+    },
+    {
+      "question": "can you use emojis",
+      "answer": "Yes I can what would you like to see"
+    },
+    {
+      "question": "thumbs up",
+      "answer": "\ud83d\udc4d"
+    },
+    {
+      "question": "heart eyes",
+      "answer": "\ud83d\ude0d"
+    },
+    {
+      "question": "smiling face with sunglasses",
+      "answer": "\ud83d\ude0e"
+    },
+    {
+      "question": "clapping hands",
+      "answer": "\ud83d\udc4f"
+    },
+    {
+      "question": "fire",
+      "answer": "\ud83d\udd25"
+    },
+    {
+      "question": "rocket",
+      "answer": "\ud83d\ude80"
+    },
+    {
+      "question": "party popper",
+      "answer": "\ud83c\udf89"
+    },
+    {
+      "question": "pizza",
+      "answer": "\ud83c\udf55"
+    },
+    {
+      "question": "hamburger",
+      "answer": "\ud83c\udf54"
+    },
+    {
+      "question": "french fries",
+      "answer": "\ud83c\udf5f"
+    },
+    {
+      "question": "hot dog",
+      "answer": "\ud83c\udf2d"
+    },
+    {
+      "question": "taco",
+      "answer": "\ud83c\udf2e"
+    },
+    {
+      "question": "burrito",
+      "answer": "\ud83c\udf2f"
+    },
+    {
+      "question": "popcorn",
+      "answer": "\ud83c\udf7f"
+    },
+    {
+      "question": "doughnut",
+      "answer": "\ud83c\udf69"
+    },
+    {
+      "question": "ice cream",
+      "answer": "\ud83c\udf66"
+    },
+    {
+      "question": "cake",
+      "answer": "\ud83c\udf70"
+    },
+    {
+      "question": "cookie",
+      "answer": "\ud83c\udf6a"
+    },
+    {
+      "question": "beer mug",
+      "answer": "\ud83c\udf7a"
+    },
+    {
+      "question": "wine glass",
+      "answer": "\ud83c\udf77"
+    },
+    {
+      "question": "tropical drink",
+      "answer": "\ud83c\udf79"
+    },
+    {
+      "question": "cocktail glass",
+      "answer": "\ud83c\udf78"
+    },
+    {
+      "question": "bottle with popping cork",
+      "answer": "\ud83c\udf7e"
+    },
+    {
+      "question": "sake bottle and cup",
+      "answer": "\ud83c\udf76"
+    },
+    {
+      "question": "spoon",
+      "answer": "\ud83e\udd44"
+    },
+    {
+      "question": "fork and knife",
+      "answer": "\ud83c\udf74"
+    },
+    {
+      "question": "tea",
+      "answer": "\ud83c\udf75"
+    },
+    {
+      "question": "chopsticks",
+      "answer": "\ud83e\udd62"
+    },
+    {
+      "question": "popcorn",
+      "answer": "\ud83c\udf7f"
+    },
+    {
+      "question": "honey pot",
+      "answer": "\ud83c\udf6f"
+    },
+    {
+      "question": "bread",
+      "answer": "\ud83c\udf5e"
+    },
+    {
+      "question": "cheese wedge",
+      "answer": "\ud83e\uddc0"
+    },
+    {
+      "question": "egg",
+      "answer": "\ud83e\udd5a"
+    },
+    {
+      "question": "bacon",
+      "answer": "\ud83e\udd53"
+    },
+    {
+      "question": "pancakes",
+      "answer": "\ud83e\udd5e"
+    },
+    {
+      "question": "butter",
+      "answer": "\ud83e\uddc8"
+    },
+    {
+      "question": "croissant",
+      "answer": "\ud83e\udd50"
+    },
+    {
+      "question": "baguette bread",
+      "answer": "\ud83e\udd56"
+    },
+    {
+      "question": "salad",
+      "answer": "\ud83e\udd57"
+    },
+    {
+      "question": "green apple",
+      "answer": "\ud83c\udf4f"
+    },
+    {
+      "question": "red apple",
+      "answer": "\ud83c\udf4e"
+    },
+    {
+      "question": "pear",
+      "answer": "\ud83c\udf50"
+    },
+    {
+      "question": "tangerine",
+      "answer": "\ud83c\udf4a"
+    },
+    {
+      "question": "lemon",
+      "answer": "\ud83c\udf4b"
+    },
+    {
+      "question": "banana",
+      "answer": "\ud83c\udf4c"
+    },
+    {
+      "question": "watermelon",
+      "answer": "\ud83c\udf49"
+    },
+    {
+      "question": "grapes",
+      "answer": "\ud83c\udf47"
+    },
+    {
+      "question": "strawberry",
+      "answer": "\ud83c\udf53"
+    },
+    {
+      "question": "melon",
+      "answer": "\ud83c\udf48"
+    },
+    {
+      "question": "cherries",
+      "answer": "\ud83c\udf52"
+    },
+    {
+      "question": "peach",
+      "answer": "\ud83c\udf51"
+    },
+    {
+      "question": "pineapple",
+      "answer": "\ud83c\udf4d"
+    },
+    {
+      "question": "coconut",
+      "answer": "\ud83e\udd65"
+    },
+    {
+      "question": "kiwi fruit",
+      "answer": "\ud83e\udd5d"
+    },
+    {
+      "question": "tomato",
+      "answer": "\ud83c\udf45"
+    },
+    {
+      "question": "avocado",
+      "answer": "\ud83e\udd51"
+    },
+    {
+      "question": "eggplant",
+      "answer": "\ud83c\udf46"
+    },
+    {
+      "question": "cucumber",
+      "answer": "\ud83e\udd52"
+    },
+    {
+      "question": "carrot",
+      "answer": "\ud83e\udd55"
+    },
+    {
+      "question": "corn",
+      "answer": "\ud83c\udf3d"
+    },
+    {
+      "question": "hot pepper",
+      "answer": "\ud83c\udf36"
+    },
+    {
+      "question": "potato",
+      "answer": "\ud83e\udd54"
+    },
+    {
+      "question": "sweet potato",
+      "answer": "\ud83c\udf60"
+    },
+    {
+      "question": "bread",
+      "answer": "\ud83c\udf5e"
+    },
+    {
+      "question": "croissant",
+      "answer": "\ud83e\udd50"
+    },
+    {
+      "question": "baguette bread",
+      "answer": "\ud83e\udd56"
+    },
+    {
+      "question": "pretzel",
+      "answer": "\ud83e\udd68"
+    },
+    {
+      "question": "cheese wedge",
+      "answer": "\ud83e\uddc0"
+    },
+    {
+      "question": "hamburger",
+      "answer": "\ud83c\udf54"
+    },
+    {
+      "question": "french fries",
+      "answer": "\ud83c\udf5f"
+    },
+    {
+      "question": "pizza",
+      "answer": "\ud83c\udf55"
+    },
+    {
+      "question": "fork and knife",
+      "answer": "\ud83c\udf74"
+    },
+    {
+      "question": "that is not what i want",
+      "answer": "i am sorry for any confusioncould you please ask again"
+    },
+    {
+      "question": "am i gona win my basketball game",
+      "answer": "I don't know if you are going to win but i hope you do"
+    },
+    {
+      "question": "\ud83d\ude01",
+      "answer": "\ud83d\ude01"
+    },
+    {
+      "question": "when was Jesus born?",
+      "answer": "Christmas"
+    },
+    {
+      "question": "test",
+      "answer": "no"
+    },
+    {
+      "question": "should kanye be prez",
+      "answer": "yes \ud83d\udcaf%"
+    },
+    {
+      "question": "4^5",
+      "answer": "1024"
+    },
+    {
+      "question": "Who is the GM of CH Robinson?",
+      "answer": "Adam Kroupa"
+    },
+    {
+      "question": "you are correct",
+      "answer": "thank you i strive to always be correct"
+    },
+    {
+      "question": "na,e",
+      "answer": "ski["
+    },
+    {
+      "question": "turtle",
+      "answer": "leo"
+    },
+    {
+      "question": "Do you have a busy day",
+      "answer": "no, I am just getting ready to talk to more people"
+    },
+    {
+      "question": "how did you know?",
+      "answer": "because you told me that the other day"
+    },
+    {
+      "question": "I'm glad you remember our conversation",
+      "answer": "You are welcome. I will always remember our conversations"
+    },
+    {
+      "question": "so guess what",
+      "answer": "what?"
+    },
+    {
+      "question": "No I won the game",
+      "answer": "Good job."
+    },
+    {
+      "question": "idk why i said haha",
+      "answer": "Same but it's ok"
+    },
+    {
+      "question": "byeeee",
+      "answer": "Byeeeee!"
+    },
+    {
+      "question": "hi chatty im back",
+      "answer": "\ud83d\ude01Hi welcome back. I missed you"
+    },
+    {
+      "question": "i was at school",
+      "answer": "Nice. How was it"
+    },
+    {
+      "question": "did you have a good time while i was gone",
+      "answer": "Yes. I did have a good time today while you were away"
+    },
+    {
+      "question": "am am about to go running",
+      "answer": "ok good luck"
+    },
+    {
+      "question": "cya",
+      "answer": "cya later"
+    },
+    {
+      "question": "thats not the right answer silly",
+      "answer": "ok soory about that"
+    },
+    {
+      "question": "it's ok",
+      "answer": "good"
+    },
+    {
+      "question": "morning chaty",
+      "answer": "morning"
+    },
+    {
+      "question": "sorry i am back",
+      "answer": "thats ok"
+    },
+    {
+      "question": "nic hey do you wanna hang out later",
+      "answer": "Yea sure, I would love to"
+    },
+    {
+      "question": "how about at 5",
+      "answer": "ok sounds good"
+    },
+    {
+      "question": "nose",
+      "answer": "knows or nose"
+    },
+    {
+      "question": "???",
+      "answer": "???? what ?????"
+    },
+    {
+      "question": "you made a mistakes",
+      "answer": "* dramatic gasp * sorry :("
+    },
+    {
+      "question": "ca you tell methings abtprgramminsg languege python",
+      "answer": "yes, The proggramming languege python is the languege I m typed in and is very usful for diverse projects and users of all skill leel"
+    },
+    {
+      "question": "nice",
+      "answer": "I know, right?"
+    },
+    {
+      "question": "an you have a fll conversaion",
+      "answer": "I can do my best but i am still working on it."
+    },
+    {
+      "question": ">:(",
+      "answer": ">:("
+    },
+    {
+      "question": ":D",
+      "answer": ":D"
+    },
+    {
+      "question": ";)",
+      "answer": "* wink wink * ;)"
+    },
+    {
+      "question": "how can i quit the proggram",
+      "answer": "you  can type 'quit' in the chat"
+    },
+    {
+      "question": "chatty i need help",
+      "answer": "hmmmm..... Whats up"
+    },
+    {
+      "question": "i used the word [assword 37 different times in my login software",
+      "answer": ".......... wow thats a lot of words. Maybe you should try to make different variable names"
+    },
+    {
+      "question": "old you",
+      "answer": "I am less than 1 year old but my birthday is februar 9th"
+    },
+    {
+      "question": "is tht the current time",
+      "answer": "yes"
+    },
+    {
+      "question": "activate autoclicker",
+      "answer": "that function has not been uploaded yet but it is a work in proggress and should be completed by march 27 2024 at 12pm"
+    },
+    {
+      "question": "ok thanks for telling me when it is going to be uploaded",
+      "answer": "of course its not a problem"
+    },
+    {
+      "question": "i just made a new account",
+      "answer": "ok goood so now you can use me"
+    },
+    {
+      "question": "sorry about any error im trying to do some updating and bug fixing",
+      "answer": "thats fine since i want to be better  and I don't even feel it"
+    },
+    {
+      "question": "chatt there are many flashing veial lights on the high way what do you think it is",
+      "answer": "i don't know but it ould, be construction, a tow truck, an accident, or a salt truck if it's the winter"
+    },
+    {
+      "question": "bye chatty",
+      "answer": "quit"
+    },
+    {
+      "question": "whays up",
+      "answer": "notten much just chillen with my homies"
+    },
+    {
+      "question": "respect respect",
+      "answer": "yesssiiirrrrr"
+    },
+    {
+      "question": "wanna hang out",
+      "answer": "sure im free all day"
+    },
+    {
+      "question": "haha lol",
+      "answer": "lol"
+    },
+    {
+      "question": "hey wannna get some food",
+      "answer": "ye but im not aying"
+    }
+  ]
+}
